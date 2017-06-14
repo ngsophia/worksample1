@@ -1,5 +1,5 @@
 ---
-title: "R markdown file for ellasolutions"
+title: "R/ellasolutions"
 output: github_document
 ---
 
