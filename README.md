@@ -1,2 +1,2 @@
 # worksample1
-This repository house a R package for worksample1
+ellasolutions is a package developed to provide quantitative solutions to users perform ELLA assay. 
