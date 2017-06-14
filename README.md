@@ -2,8 +2,8 @@
 ##### **ellasolutions** is a package developed to provide quantitative solutions to users perform ELLA assay. 
 > 1+1
 
-```{r}
+```{r include=FALSE}
 1+1
 ```
-1+1
+
 
